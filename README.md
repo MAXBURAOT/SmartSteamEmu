@@ -1,7 +1,7 @@
 # SmartSteamEmu
 SSELauncher Comfy Edition 2018 
 
-By: syahmixp
+By: Syahmixp
 By: LoodBot
 
 Based on decompiled source of SSELauncher contained in SmartSteamEmu 1.4.3 release, slightly cleaned up but mostly untouched.
